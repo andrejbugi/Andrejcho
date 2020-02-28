@@ -1,8 +1,8 @@
 # Car
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/car`. To experiment with that code, run `bin/console` for an interactive prompt.
+This is a Car producton gem. With the Car Gem you can make new instances of car models and later on you can change their appeareances and values. Feel free to test and use it!
 
-TODO: Delete this and the text above, and describe your gem
+
 
 ## Installation
 
@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+TODO : explain usage here
 
 ## Development
 
